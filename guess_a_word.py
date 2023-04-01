@@ -1,6 +1,7 @@
 import random
 
-WORDS = ['apple', 'banana', 'cherry', 'dragonfruit', 'elderberry', 'fig', 'grapefruit', 'honeydew', 'imbe', 'jackfruit']
+WORDS = [ 'Cat', 'Dog', 'Mouse', 'Horse', 'Bird', 'apple', 'banana', 'cherry',
+          'dragonfruit', 'elderberry', 'fig', 'grapefruit', 'honeydew', 'jackfruit']
 
 MAX_TRIES = 7
 
